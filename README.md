@@ -1,5 +1,6 @@
 Configuring Apache for OCSP Stapling...
 
+```
 1) Deployed vanilla RHEL7 VM
 
 
@@ -137,3 +138,5 @@ Configuring Apache for OCSP Stapling...
   verify error:num=19:self signed certificate in certificate chain
   verify return:0
   DONE
+
+```
